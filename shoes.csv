@@ -1,0 +1,1 @@
+{ "query": "dateUpdated:[2018-01-01 TO *] AND brand:* AND categories:(Women's Shoes OR All Women's Shoes OR Womens Shoes)* AND primaryCategories:(Shoes)* AND name:* AND prices:* AND sizes:* AND sourceURLs:*", "format": "csv", "download": true}
